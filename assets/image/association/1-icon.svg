@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132.166" height="77.414" viewBox="0 0 132.166 77.414">
+    <defs>
+        <style>
+            .prefix__cls-4{fill:#fff}
+        </style>
+    </defs>
+    <g id="prefix___1icon" data-name="1icon" transform="translate(-397 -2353)">
+        <circle id="prefix__Ellipse_211" cx="28.782" cy="28.782" r="28.782" fill="#ff6161" data-name="Ellipse 211" transform="translate(471.602 2372.85)"/>
+        <circle id="prefix__Ellipse_212" cx="28.782" cy="28.782" r="28.782" fill="#e3e3e3" data-name="Ellipse 212" transform="translate(397 2353)"/>
+        <g id="prefix__Group_12550" data-name="Group 12550" transform="translate(443.099 2356.015)">
+            <g id="prefix__Group_12547" data-name="Group 12547" transform="translate(0 4.745)">
+                <path id="prefix__Path_9935" fill="#da2419" d="M234.093 13.484h27.652v68.3h-14.656V26.48h-13z" data-name="Path 9935" transform="translate(-234.093 -13.484)"/>
+            </g>
+            <g id="prefix__Group_12549" data-name="Group 12549" transform="translate(2.759)">
+                <g id="prefix__Group_12548" data-name="Group 12548">
+                    <path id="prefix__Path_9936" d="M263.994 81.609h-14.656a.992.992 0 0 1-.993-.993V26.305h-12a.992.992 0 0 1-.993-.993v-13a.992.992 0 0 1 .993-.993h27.652a.991.991 0 0 1 .991.993v68.3a.991.991 0 0 1-.994.997zm-13.666-1.986H263V13.31h-25.667v11.01h12a.991.991 0 0 1 .991.993z" data-name="Path 9936" transform="translate(-235.349 -11.324)"/>
+                </g>
+            </g>
+        </g>
+        <g id="prefix__Group_12552" data-name="Group 12552" transform="translate(498.181 2362.446)">
+            <path id="prefix__Path_9944" d="M273.814 23.932L259.62 14.7v18.459z" class="prefix__cls-4" data-name="Path 9944" transform="translate(-258.627 -13.711)"/>
+            <path id="prefix__Path_9945" d="M260.161 34.692a.991.991 0 0 1-.993-.993V15.245a.994.994 0 0 1 1.533-.833l14.2 9.228a.995.995 0 0 1 0 1.665l-14.2 9.226a.978.978 0 0 1-.54.161zm.993-17.617V31.87l11.379-7.4z" data-name="Path 9945" transform="translate(-259.168 -14.252)"/>
+        </g>
+        <g id="prefix__Group_12553" data-name="Group 12553" transform="translate(413.593 2378.704)">
+            <path id="prefix__Path_9946" d="M221.113 28.267l9.48 6.163V22.1z" class="prefix__cls-4" data-name="Path 9946" transform="translate(-220.12 -21.113)"/>
+            <path id="prefix__Path_9947" d="M231.133 35.964a1 1 0 0 1-.54-.16l-9.479-6.164a.992.992 0 0 1 0-1.665l9.479-6.164a1 1 0 0 1 1.015-.04.989.989 0 0 1 .518.872v12.328a.989.989 0 0 1-.518.872 1.015 1.015 0 0 1-.475.121zm-7.658-7.157l6.667 4.334v-8.668z" data-name="Path 9947" transform="translate(-220.661 -21.653)"/>
+        </g>
+        <g id="prefix__Group_12554" data-name="Group 12554" transform="translate(423.342 2412.518)">
+            <circle id="prefix__Ellipse_213" cx="3.753" cy="3.753" r="3.753" class="prefix__cls-4" data-name="Ellipse 213" transform="translate(.993 .992)"/>
+            <path id="prefix__Path_9948" d="M229.844 46.538a4.746 4.746 0 1 1 4.745-4.747 4.752 4.752 0 0 1-4.745 4.747zm0-7.506a2.76 2.76 0 1 0 2.761 2.759 2.764 2.764 0 0 0-2.761-2.759z" data-name="Path 9948" transform="translate(-225.099 -37.046)"/>
+        </g>
+        <g id="prefix__Group_12555" data-name="Group 12555" transform="translate(440.834 2385.542)">
+            <circle id="prefix__Ellipse_214" cx="3.102" cy="3.102" r="3.102" class="prefix__cls-4" data-name="Ellipse 214" transform="translate(.993 .995)"/>
+            <path id="prefix__Path_9949" d="M237.157 32.957a4.1 4.1 0 1 1 4.095-4.095 4.1 4.1 0 0 1-4.095 4.095zm0-6.2a2.109 2.109 0 1 0 2.109 2.109 2.113 2.113 0 0 0-2.109-2.112z" data-name="Path 9949" transform="translate(-233.062 -24.766)"/>
+        </g>
+        <g id="prefix__Group_12556" data-name="Group 12556" transform="translate(502.987 2411.598)">
+            <circle id="prefix__Ellipse_215" cx="3.102" cy="3.102" r="3.102" class="prefix__cls-4" data-name="Ellipse 215" transform="translate(.994 .993)"/>
+            <path id="prefix__Path_9950" d="M265.451 44.816a4.095 4.095 0 1 1 4.095-4.095 4.1 4.1 0 0 1-4.095 4.095zm0-6.2a2.109 2.109 0 1 0 2.109 2.109 2.112 2.112 0 0 0-2.109-2.112z" data-name="Path 9950" transform="translate(-261.356 -36.627)"/>
+        </g>
+    </g>
+</svg>

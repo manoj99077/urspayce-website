@@ -1,0 +1,7 @@
+<svg id="Component_6_1" data-name="Component 6 – 1" xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <circle id="Ellipse_6" data-name="Ellipse 6" cx="45" cy="45" r="45" fill="#f2f9ff"/>
+  <g id="_6" data-name="6" transform="translate(28.671 26)">
+    <path id="Path_39" data-name="Path 39" d="M16.328,0A8.867,8.867,0,1,0,25.12,8.867,8.839,8.839,0,0,0,16.328,0Zm0,15.2a6.333,6.333,0,1,1,6.28-6.333A6.315,6.315,0,0,1,16.328,15.2Z" fill="#1fc9aa"/>
+    <path id="Path_40" data-name="Path 40" d="M16.329,20.267A16.417,16.417,0,0,0,0,36.733a1.256,1.256,0,1,0,2.513,0,13.816,13.816,0,1,1,27.632,0,1.256,1.256,0,1,0,2.513,0A16.418,16.418,0,0,0,16.329,20.267Z" fill="#1fc9aa"/>
+  </g>
+</svg>

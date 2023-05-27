@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1177" height="1145" viewBox="0 0 1177 1145">
+    <defs>
+        <filter id="Ellipse_54" width="818" height="818" x="220" y="211" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation="17.5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_55" width="818" height="818" x="247" y="0" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-2" stdDeviation="17.5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_58" width="818" height="818" x="322" y="6" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-3" stdDeviation="17.5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_59" width="818" height="818" x="359" y="195" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-4" stdDeviation="17.5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur-4" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_60" width="818" height="818" x="277" y="238" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-5" stdDeviation="17.5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur-5" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_61" width="818" height="818" x="311" y="327" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-6" stdDeviation="17.5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur-6" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_64" width="818" height="818" x="100" y="152" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-7" stdDeviation="17.5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur-7" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Path_15436" width="885.451" height="818" x="0" y="232" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-8" stdDeviation="17.5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur-8" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_56" width="818" height="818" x="120" y="39" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-9" stdDeviation="17.5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur-9" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_57" width="818" height="818" x="200" y="132" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-10" stdDeviation="17.5"/>
+            <feFlood flood-opacity=".059"/>
+            <feComposite in2="blur-10" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-2,.cls-5{fill:none}.cls-2{stroke:#000}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_14034" data-name="Group 14034" opacity="0.1">
+        <g filter="url(#Ellipse_54)" transform="translate(-91.5 160.5) translate(91.5 -160.5)">
+            <g id="Ellipse_54-2" class="cls-2" data-name="Ellipse 54" transform="translate(272.5 263.5)">
+                <circle cx="356.5" cy="356.5" r="356.5" class="cls-4"/>
+                <circle cx="356.5" cy="356.5" r="356" class="cls-5"/>
+            </g>
+        </g>
+        <g filter="url(#Ellipse_55)" transform="translate(-91.5 160.5) translate(91.5 -160.5)">
+            <g id="Ellipse_55-2" class="cls-2" data-name="Ellipse 55" transform="translate(299.5 52.5)">
+                <circle cx="356.5" cy="356.5" r="356.5" class="cls-4"/>
+                <circle cx="356.5" cy="356.5" r="356" class="cls-5"/>
+            </g>
+        </g>
+        <g filter="url(#Ellipse_58)" transform="translate(-91.5 160.5) translate(91.5 -160.5)">
+            <g id="Ellipse_58-2" class="cls-2" data-name="Ellipse 58" transform="translate(374.5 58.5)">
+                <circle cx="356.5" cy="356.5" r="356.5" class="cls-4"/>
+                <circle cx="356.5" cy="356.5" r="356" class="cls-5"/>
+            </g>
+        </g>
+        <g filter="url(#Ellipse_59)" transform="translate(-91.5 160.5) translate(91.5 -160.5)">
+            <g id="Ellipse_59-2" class="cls-2" data-name="Ellipse 59" transform="translate(411.5 247.5)">
+                <circle cx="356.5" cy="356.5" r="356.5" class="cls-4"/>
+                <circle cx="356.5" cy="356.5" r="356" class="cls-5"/>
+            </g>
+        </g>
+        <g filter="url(#Ellipse_60)" transform="translate(-91.5 160.5) translate(91.5 -160.5)">
+            <g id="Ellipse_60-2" class="cls-2" data-name="Ellipse 60" transform="translate(329.5 290.5)">
+                <circle cx="356.5" cy="356.5" r="356.5" class="cls-4"/>
+                <circle cx="356.5" cy="356.5" r="356" class="cls-5"/>
+            </g>
+        </g>
+        <g filter="url(#Ellipse_61)" transform="translate(-91.5 160.5) translate(91.5 -160.5)">
+            <g id="Ellipse_61-2" class="cls-2" data-name="Ellipse 61" transform="translate(363.5 379.5)">
+                <circle cx="356.5" cy="356.5" r="356.5" class="cls-4"/>
+                <circle cx="356.5" cy="356.5" r="356" class="cls-5"/>
+            </g>
+        </g>
+        <g filter="url(#Ellipse_64)" transform="translate(-91.5 160.5) translate(91.5 -160.5)">
+            <g id="Ellipse_64-2" class="cls-2" data-name="Ellipse 64" transform="translate(152.5 204.5)">
+                <circle cx="356.5" cy="356.5" r="356.5" class="cls-4"/>
+                <circle cx="356.5" cy="356.5" r="356" class="cls-5"/>
+            </g>
+        </g>
+        <g filter="url(#Path_15436)" transform="translate(-91.5 160.5) translate(91.5 -160.5)">
+            <g id="Path_15436-2" fill="none" data-name="Path 15436">
+                <path d="M356.5 0c196.89 0 423.951 159.61 423.951 356.5S553.39 713 356.5 713 0 553.39 0 356.5 159.61 0 356.5 0z" class="cls-4" transform="translate(52.5 284.5)"/>
+                <path d="M356.5 1c-12.127 0-24.356.617-36.349 1.836-11.819 1.2-23.695 3.012-35.298 5.386-22.824 4.671-45.276 11.64-66.73 20.715-21.064 8.91-41.38 19.937-60.386 32.776-18.824 12.718-36.526 27.323-52.614 43.41-16.087 16.088-30.692 33.79-43.41 52.614-12.84 19.005-23.867 39.322-32.777 60.387-9.074 21.454-16.043 43.905-20.714 66.73-2.374 11.602-4.186 23.478-5.387 35.297C1.617 332.144 1 344.373 1 356.5c0 12.127.617 24.356 1.835 36.349 1.2 11.819 3.013 23.695 5.387 35.298 4.671 22.824 11.64 45.275 20.714 66.73 8.91 21.064 19.938 41.38 32.777 60.386 12.718 18.824 27.323 36.526 43.41 52.614 16.088 16.087 33.79 30.692 52.614 43.41 19.005 12.84 39.322 23.867 60.387 32.776 21.453 9.075 43.905 16.044 66.73 20.715 11.602 2.374 23.478 4.186 35.297 5.386C332.144 711.383 344.373 712 356.5 712c24.182 0 49.268-2.43 74.56-7.225 24.78-4.698 49.812-11.672 74.4-20.729 24.396-8.987 48.357-20.023 71.216-32.804 22.991-12.853 44.864-27.47 65.012-43.442 20.526-16.273 39.295-33.983 55.787-52.64 16.985-19.214 31.638-39.532 43.553-60.39 6.108-10.694 11.576-21.679 16.25-32.65 4.773-11.2 8.833-22.654 12.07-34.046 3.308-11.644 5.836-23.509 7.515-35.265 1.717-12.028 2.588-24.244 2.588-36.309 0-12.065-.87-24.281-2.588-36.309-1.679-11.756-4.207-23.621-7.515-35.265-3.237-11.392-7.297-22.847-12.07-34.046-4.674-10.971-10.142-21.956-16.25-32.65-11.915-20.858-26.568-41.176-43.553-60.39-16.492-18.657-35.261-36.367-55.787-52.64-20.148-15.973-42.02-30.589-65.012-43.442-22.859-12.78-46.82-23.817-71.217-32.804-24.587-9.057-49.62-16.031-74.4-20.729C405.768 3.431 380.682 1 356.5 1m0-1c196.89 0 423.95 159.61 423.95 356.5S553.39 713 356.5 713 0 553.39 0 356.5 159.61 0 356.5 0z" transform="translate(52.5 284.5)"/>
+            </g>
+        </g>
+        <g filter="url(#Ellipse_56)" transform="translate(-91.5 160.5) translate(91.5 -160.5)">
+            <g id="Ellipse_56-2" class="cls-2" data-name="Ellipse 56" transform="translate(172.5 91.5)">
+                <circle cx="356.5" cy="356.5" r="356.5" class="cls-4"/>
+                <circle cx="356.5" cy="356.5" r="356" class="cls-5"/>
+            </g>
+        </g>
+        <g filter="url(#Ellipse_57)" transform="translate(-91.5 160.5) translate(91.5 -160.5)">
+            <g id="Ellipse_57-2" class="cls-2" data-name="Ellipse 57" transform="translate(252.5 184.5)">
+                <circle cx="356.5" cy="356.5" r="356.5" class="cls-4"/>
+                <circle cx="356.5" cy="356.5" r="356" class="cls-5"/>
+            </g>
+        </g>
+    </g>
+</svg>
